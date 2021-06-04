@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+.img-responsive {
+    width: 500px;
+    height: 450px;
+}
+
+img {
+    width: 50px;
+    height: 40px;
+}
+
+.events {
+    margin-bottom: 1000px
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.events {
+    margin-bottom: 100px
+}
+
+.img1 {
+    width: 120px;
+    height: 100px
+}
+
+.events img {
+    width: 300px;
+    height: 270px;
+}
+
+.events1 img {
+    width: 375px;
+    height: 270px;
+}
